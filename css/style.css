@@ -1,0 +1,62 @@
+body {
+  background : #000;
+}
+
+#background {
+  text-align :center;
+    background-image: url("../images/computer-science.jpg");
+    background-size: 1300px 300px;
+    background-repeat: no-repeat;
+    height : 300px;
+}
+h1{
+ text-align: center;
+ color : white;
+ font-size: strong;
+}
+#search {
+  text-align : right;
+}
+.image{
+  text-align : center;
+}
+.buttons{
+  text-align : center;
+}
+#scratch {
+  height : 181 px;
+}
+
+.contaio{
+
+  text-align: center;
+}
+
+body {
+  background : #000;
+}
+
+#background {
+  text-align :center;
+    background-image: url("../images/computer-science.jpg");
+    background-size: 1300px 300px;
+    background-repeat: no-repeat;
+    height : 300px;
+}
+h1{
+ text-align: center;
+ color : white;
+ font-size: strong;
+}
+#search {
+  text-align : right;
+}
+
+.im{
+  text-align : center;
+}
+
+#p1 {
+  font-size : strong;
+  color : #fff;
+}
